@@ -5,10 +5,10 @@ Raipur, Chhattisgarh 492001 | +91 8817359976 | kayrabanjare9466@gmail.com
 LinkedIn | github.com/kayra2000 | kayra2000.github.io
 
 ## PROFESSIONAL SUMMARY
-Backend-focused Full Stack Developer with 4+ years of hands-on experience building scalable web applications using PHP 8, Laravel 10/11, and CodeIgniter 4. Proven track record delivering production-grade ERP, CRM, and API-driven systems across logistics, e-commerce, government, and FMCG domains. Adept at REST API design, RBAC-based authentication, MySQL query optimisation, and Agile delivery. Seeking senior/backend developer roles at product-driven organisations.
+Backend-focused Full Stack Developer with 4+ years of hands-on experience building scalable web applications using PHP 8, Laravel 9/10/11, and CodeIgniter 3. Proven track record delivering production-grade ERP, CRM, and API-driven systems across logistics, e-commerce, government, and FMCG domains. Adept at REST API design, RBAC-based authentication, MySQL query optimisation, and Agile delivery. Seeking senior/backend developer roles at product-driven organisations.
 
 ## TECHNICAL SKILLS
-- **Backend**: PHP 8.x, Laravel 10/11, CodeIgniter 4
+- **Backend**: PHP 8.x, Laravel 9/10/11, CodeIgniter 3
 - **Database**: MySQL Optimization, Database Normalization, Redis
 - **Architecture & APIs**: REST API Design, RBAC & Auth (Sanctum/JWT), Service-Repository Pattern
 - **Frontend**: JavaScript (ES6+), AJAX, Bootstrap 5, HTML5/CSS3
